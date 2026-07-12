@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://hotstoks.com?utm_source=public-apis
 common:
+  - type: DomainSecurity
+    url: security/hotstoks-domain-security.yml
   - type: Website
     url: https://hotstoks.com?utm_source=public-apis
   - type: PublicAPIsListing
