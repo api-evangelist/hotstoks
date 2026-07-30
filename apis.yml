@@ -1,4 +1,16 @@
 aid: hotstoks
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hotstoks.png
 name: Hotstoks
 description: "Stock market data powered by SQL"
 url: https://hotstoks.com?utm_source=public-apis
