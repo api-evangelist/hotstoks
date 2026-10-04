@@ -24,7 +24,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hotstoks.png
 name: Hotstoks
 description: "Stock market data powered by SQL"
-url: https://hotstoks.com?utm_source=public-apis
+url: https://hotstoks.com
 specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
@@ -39,17 +39,16 @@ apis:
   - name: Hotstoks
     description: "Stock market data powered by SQL"
     humanURL: https://hotstoks.com?utm_source=public-apis
-    baseURL: https://hotstoks.com?utm_source=public-apis
     tags:
       - Finance
     properties:
       - type: Documentation
-        url: https://hotstoks.com?utm_source=public-apis
+        url: https://hotstoks.com
 common:
   - type: DomainSecurity
     url: security/hotstoks-domain-security.yml
   - type: Website
-    url: https://hotstoks.com?utm_source=public-apis
+    url: https://hotstoks.com
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
 maintainers:
